@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # every 24H
-  schedule: [{cron: "* */24 * * *"}]
+  # every 6H
+  schedule: [{cron: "* */6 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
