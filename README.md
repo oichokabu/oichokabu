@@ -3,7 +3,7 @@
 
 - <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm Involved in IoT, DevOps, CI/CD, and Serverless Architecture in Japan <img src="https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg" alt="mortar_board" width="20" height="20">.
 - <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as an Cloud & Software Engineer.
-- <img src="https://twemoji.maxcdn.com/svg/1f4bb.svg" alt="computer" width="20" height="20"> Since 2021, I have learned programming by myself and worked on some personal projects.
+- <img src="https://twemoji.maxcdn.com/svg/1f4bb.svg" alt="computer" width="20" height="20"> Since 2022, I have learned programming by myself and worked on some personal projects.
 - <img src="https://twemoji.maxcdn.com/svg/263a.svg" alt="relaxed" width="20" height="20"> I'm interested in AR, VR, ML, and Lexical Analysis.
 - <img src="https://twemoji.maxcdn.com/svg/1f3ad.svg" alt="relaxed" width="20" height="20"> I like Japanese anime and watch it frequently, and my favorite works are Violet Evergarden and Eighty Six.I often go to the cinema.
 - <img src="https://twemoji.maxcdn.com/svg/1f3bc.svg" alt="relaxed" width="20" height="20"> I am making Vocaloid songs in small pieces. I'm a fledgling Vocaloid P.
