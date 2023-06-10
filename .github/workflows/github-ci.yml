@@ -1,24 +1,22 @@
 name: Metrics
 on:
-  # every 6H
-  schedule: [{cron: "* */6 * * *"}]
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-  push: {branches: ["main"]}
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest # lowlighterさんを指定しないといけないっぽい
         with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          config_timezone: Japan
+          base: ""
           plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_colors: "python: #346E9E, typescript: #007ACC"
-          plugin_languages_details: percentage
-          plugin_languages_sections: recently-used # ,most-used
-          commits_authoring: 59308114+oichokabu@users.noreply.github.com
+          plugin_isocalendar_duration: full-year
+          # template: repository
+          # user: oichokabu
+          # repo: metrics
