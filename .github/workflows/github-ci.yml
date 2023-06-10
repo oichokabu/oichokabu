@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "* */6 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -17,6 +17,13 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # template: repository
-          # user: oichokabu
-          # repo: metrics
+          plugin_achievements: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          config_timezone: Japan
+          plugin_languages: yes
+          plugin_languages_colors: "python: #346E9E, typescript: #007ACC"
+          plugin_languages_details: percentage
+          plugin_languages_sections: recently-used # ,most-used
+          commits_authoring: 59308114+oichokabu@users.noreply.github.com
