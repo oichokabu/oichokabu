@@ -18,8 +18,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oichokabu&theme=onedark&count_private=true)](https://github.com/oichokabu/github-profile-trophy&count_private=true)
 
-<!-- ![Metrics](https://github.com/oichokabu/oichokabu/blob/main/metrics.plugin.isocalendar.svg) -->
-![Metrics](https://github.com/oichokabu/oichokabu/blob/main/github-metrics.svg)
+![Metrics](https://github.com/oichokabu/oichokabu/blob/main/metrics.plugin.isocalendar.svg)
+<!-- ![Metrics](https://github.com/oichokabu/oichokabu/blob/main/github-metrics.svg) -->
 
 ### <img src="https://twemoji.maxcdn.com/svg/1f527.svg" alt="wrench" width="20" height="20"> Languages and Tools
 
