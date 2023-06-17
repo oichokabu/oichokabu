@@ -1,7 +1,7 @@
 ### <img src="https://twemoji.maxcdn.com/svg/1f3b4.svg" alt="hanahfda" width="20" height="20"> Hello! I'm oichokabu.
 
 - <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm Involved in Serverless Architecture, IaC, CI/CD, and IoT in Japan <img src="https://twemoji.maxcdn.com/svg/1f1ef-1f1f5.svg" alt="mortar_board" width="20" height="20">.
-- <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as a Cloud & Application Developer.
+- <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm currently working as a Cloud Architect.
 - <img src="https://twemoji.maxcdn.com/svg/263a.svg" alt="relaxed" width="20" height="20"> I'm interested in IoT, VR, AR, and AI.
 - <img src="https://twemoji.maxcdn.com/svg/1f3ad.svg" alt="relaxed" width="20" height="20"> I like Japanese anime. I often go to the cinema.
 - <img src="https://twemoji.maxcdn.com/svg/1f3ae.svg" alt="relaxed" width="20" height="20"> I like to play video games, especially the NieR series.
