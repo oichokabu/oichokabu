@@ -32,7 +32,7 @@
     <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg " alt="cplusplus" width="40" height="40"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
     <!-- <a href="https://www.java.com/ja/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> -->
-    <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> -->
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/></a>
     <!-- <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a> -->
     <!-- <a href="https://www.oracle.com/jp/database/technologies/appdev/sql.html" target="_blank"><img src="img/OracleSQL.svg" alt="OracleSQL" width="40" height="40"/></a> -->
