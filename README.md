@@ -1,6 +1,6 @@
 ### <img src="https://twemoji.maxcdn.com/svg/1f3b4.svg" alt="hanahfda" width="20" height="20"> Hello! I'm oichokabu.
 
-- <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm Specialized in Serverless Architecture, IoT, mobility , and IaC in Japan.
+- <img src="https://twemoji.maxcdn.com/svg/1f393.svg" alt="mortar_board" width="20" height="20"> I'm Specialized in IoT, mobility , and Serverless Architecture in Japan.
 - <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm working as a Cloud Architect.
 - <img src="https://twemoji.maxcdn.com/svg/263a.svg" alt="relaxed" width="20" height="20"> I'm interested in IoT, VR, AR, and AI.
 - <img src="https://twemoji.maxcdn.com/svg/1f3ad.svg" alt="relaxed" width="20" height="20"> I like Japanese anime. I often go to the cinema.
@@ -32,7 +32,7 @@
     <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg " alt="cplusplus" width="40" height="40"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
     <!-- <a href="https://www.java.com/ja/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> -->
-    <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> -->
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
     <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres" width="40" height="40"/></a>
     <!-- <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a> -->
     <!-- <a href="https://www.oracle.com/jp/database/technologies/appdev/sql.html" target="_blank"><img src="img/OracleSQL.svg" alt="OracleSQL" width="40" height="40"/></a> -->
