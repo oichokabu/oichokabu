@@ -4,7 +4,7 @@
 - <img src="https://twemoji.maxcdn.com/svg/1f52d.svg" alt="telescope" width="20" height="20"> I'm working as a Cloud Architect.
 - <img src="https://twemoji.maxcdn.com/svg/263a.svg" alt="relaxed" width="20" height="20"> I'm interested in IoT, VR, AR, and AI.
 - <img src="https://twemoji.maxcdn.com/svg/1f3ad.svg" alt="relaxed" width="20" height="20"> I like Japanese anime. I often go to the cinema.
-- <img src="https://twemoji.maxcdn.com/svg/1f3ae.svg" alt="relaxed" width="20" height="20"> I like to play video games, especially the NieR.
+<!-- - <img src="https://twemoji.maxcdn.com/svg/1f3ae.svg" alt="relaxed" width="20" height="20"> I like to play video games, especially the NieR. -->
 <!-- - <img src="https://twemoji.maxcdn.com/svg/1f3bc.svg" alt="relaxed" width="20" height="20"> I am making Vocaloid songs in small pieces. -->
 <!-- - <img src="https://twemoji.maxcdn.com/v/latest/svg/1f9d1-1f3fb-200d-1f393.svg" alt="relaxed" width="20" height="20"> I have a Bachelor of Law degree. -->
 
