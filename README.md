@@ -5,14 +5,14 @@
 - 🤖 I'm interested in Mobility, Robot, IoT, VR, AR, and LLM.
 - 🎨 I like Japanese anime and Vocaloid songs.
 
-![oichokabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=oichokabu&count_private=true&show_icons=true&theme=discord_old_blurple)
+![oichokabu's GitHub stats](./profile/stats.svg)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/oichokabu/posts.svg)](http://qiita.com/oichokabu)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/oichokabu/contributions.svg)](http://qiita.com/oichokabu)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/oichokabu/followers.svg)](http://qiita.com/oichokabu)
 ![](https://komarev.com/ghpvc/?username=oichokabu)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oichokabu&theme=onedark&count_private=true)](https://github.com/oichokabu/github-profile-trophy&count_private=true)
+![trophy](./profile/trophy.svg)
 
 ![Metrics](https://github.com/oichokabu/oichokabu/blob/main/github-metrics.svg)
 
