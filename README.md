@@ -1,11 +1,9 @@
 ### Hello! I'm oichokabu.
 
-- 🚗 I'm Specialized in IoT, mobility , and Serverless Architecture by AWS in Japan.
-- ☁️ I'm working as a Cloud Architect.
-- 🤖 I'm interested in IoT, VR, AR, and AI.
-- 🎨 I like Japanese anime. I often go to the cinema.
-- 🎵 I am making Vocaloid songs in small pieces.
-- 🎓 I have a Bachelor of Law degree.
+- 🚗 I'm Specialized in IoT, mobility, Robotics, and Serverless Architecture in Japan.
+- ☁️ I'm working as a Cloud Architect / Project Manager.
+- 🤖 I'm interested in Mobility, Robot, IoT, VR, AR, and LLM.
+- 🎨 I like Japanese anime and Vocaloid songs.
 
 ![oichokabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=oichokabu&count_private=true&show_icons=true&theme=discord_old_blurple)
 
