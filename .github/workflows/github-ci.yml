@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d # master HEAD, no tagged release since v3.34 (2023)
         with:
           # filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
